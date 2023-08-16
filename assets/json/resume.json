@@ -1,0 +1,56 @@
+{
+  "work": [
+    {
+      "name": "Kandji",
+      "position": "Senior Software Engineer",
+      "url": "https://www.kandji.io/",
+      "startDate": "Dec 2021",
+      "endDate": "June 2023",
+      "summary": "Built highly scaled real-time vulnerability detection and reporting software for macOS which detected CVEs on a device. Also built an internal real-time messaging system for communication to devices. Worked on small team of 5 engineers."
+    },
+    {
+      "name": "Plutoshift",
+      "position": "Backend Engineer",
+      "url": "https://plutoshift.com/",
+      "startDate": "Aug 2020",
+      "endDate": "Dec 2021",
+      "summary": "Backend engineer for company that used AI to optimize industrial processes and allow for centralization and visualization of data. Worked on infrastructure and features for data visualization."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "area": "Data Science",
+      "studyType": "B.A.",
+      "startDate": "Fall 2018",
+      "endDate": "Fall 2021",
+      "score": "3.11",
+      "courses": [
+        "CS 61A: Structure and Interpretation of Computer Programs", "CS 61B: Data Structures", "CS 61C: Great Ideas in Computer Architecture", "CS 70: Discrete Mathematics and Probability Theory", "CS 188: Introduction to Artificial Intelligence", "CS 186: Introduction to Database Systems",
+        "Data 100: Principles and Techniques of Data Science", "Data C102: Data, Inference, and Decisions"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Clarinet",
+      "date": "May 2016",
+      "awarder": "Marin Music Chest",
+      "summary": "​The Marin Music Chest provides financial support and performance opportunities to talented, promising, young Marin County students of classical music and, when possible, ​assists other non-profit organizations with similar goals."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [{"name": "Lifting/bodybuilding/nutrition"}, {"name": "Playing piano (mostly classical)"}, {"name": "Music production"}, {"name": "Literature"},
+  {"name": "Gaming/game development"}, {"name": "Clothes/fashion"}],
+  "references": [],
+  "projects": []
+}
